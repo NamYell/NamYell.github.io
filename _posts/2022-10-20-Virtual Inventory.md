@@ -55,7 +55,7 @@ public class Main extends JavaPlugin {
 ```
 
 
-**command Class**
+**Command Class**
 
 ```java
 import org.bukkit.Bukkit;
@@ -81,7 +81,7 @@ public class command implements CommandExecutor {
 ```
 
 
-**inventory Class**
+**Inventory Class**
 
 ```java
 import org.bukkit.Bukkit;
@@ -166,7 +166,7 @@ class openInventory extends Event {
 ```
 
 
-**plugin.yml**
+**Plugin.yml**
 
 ```java
 main: Main
@@ -178,7 +178,7 @@ commands:
 ```
   
   
-**config.yml**
+**Config.yml**
 
 ```java
 //None
